@@ -1,3 +1,5 @@
+
+感谢原作者的付出，我这边略微做一些修正
 # SuningPay
 
 SuningPay(易付宝) API
